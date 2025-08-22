@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! Welcome to my GitHub! 👋
 
 - 🔭 I’m currently working on [Study Up Chicago]([https://github.com/vuejs/vue](https://github.com/cc0ffee/study-up-chicago))
 - 🌱 I’m currently learning MapBox
